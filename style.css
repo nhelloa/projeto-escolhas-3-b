@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-weight: 400;
+}
+
+:root{
+    --seal-brown: #582f0eff;
+--russet: #7f4f24ff;
+--raw-umber: #936639ff;
+--lion: #a68a64ff;
+--khaki: #b6ad90ff;
+--sage: #c2c5aaff;
+--sage-2: #a4ac86ff;
+--reseda-green: #656d4aff;
+--ebony: #414833ff;
+--black-olive: #333d29ff;
+--fonte-texto: "Oswald", sans-serif;
+--fonte-titulo: "Roboto Condensed", sans-serif;
+}
