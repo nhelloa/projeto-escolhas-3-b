@@ -35,12 +35,27 @@ body{
 .caixa-principal{
     background-color: var(--khaki);
     width: 90%;
-    max-width: 600%px;
+    max-width: 600px;
     text-align: center;
     padding: 20px;
 }
 
 .titulo{
-    color: var(--raw-umber);
+    color:var(--raw-umber);
     font-family: var(--fonte-titulo);
+}
+
+button{
+    background-color: var(--black-olive);
+    color: var(--ebony);
+    border: none;
+    border-radius: 15px;
+    padding: 15px;
+    transition: 0.3s;
+    margin: 10px auto;
+
+}
+
+button:hover{
+    background-color: var(--reseda-green);
 }
