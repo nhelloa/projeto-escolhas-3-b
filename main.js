@@ -6,33 +6,33 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "Enunciado 01",
+        enunciado: "A legalização do aborto é uma pauta muito discutida pela sociedade que divide opiniões. Alguns alegam questões de saúde, outros dizem ser uma desculpa para não assumir a responsabilidade e como toda situação tem aqueles que preferem ficar em cima do muro ou não expor sua opinião. Qual seu pensameto perante a questão abordada?",
         alternativas: [
             {
-                texto:"alternativa 01",
-                afirmacao: "resultado 01"
+                texto:"Sou a favor do aborto, a mulher tem o direito de escolher se quer ou não, gerar um filho.",
+                afirmacao: "você é uma mulher que apoia a liberdade de escolha e luta pelo direito sob seu proprío corpo"
             },
             {
-                texto:"alternativa 02",
-                afirmacao: "resultado 02"
+                texto:"Sou contra, ninguém tem a liberdade de tirar a vida de alguém, logo que a vida é um direito.",
+                afirmacao: "você é uma pessoa mais conservadora que apoia o direito a vida e tem instintos familiares"
             }   
         ]
     },
     {
-        enunciado: "Enunciado 02",
+        enunciado: "Vamos supor que, perante uma situação em que o bebê foi fruto de um abuso sexual, violando o direito de escolha da vítima e devido o acontecimento a vítima optar por abortar.",
         alternativas: [
             {
-                texto: "alternativa 03",
-                afirmacao: "resultado03"
+                texto: "Aceitaria o pedido de aborto, abuso sexual é crime, deixaria sequelas tanto na mãe quanto no bebê a deixando incapacitada de lidar com a maternidade.",
+                afirmacao: "mesmo perante uma situação tão monstruosa você tenta lidar da melhor forma possível, deixando o emocional decidir por você."
             },
             {
-                texto: "alternativa 04",
-                afirmacao: "resultado 04"
+                texto: "Negaria o pedido de aborto, mesmo o bebê sendo fruto de um ato criminoso ainda é uma vida. Caso a mãe opte por interromper a gestação terá de lidar com as consequências.",
+                afirmacao: "mesmo perante uma situação tão monstruosa você tenta lidar da melhor forma possível, deixando a razão decidir por você."
             }
         ]
     },
     {
-        enunciado: "Enunciado 03",
+        enunciado: "Agora abordamos uma situação diferente, suponhamos que: um casal optam por não usarem nenhum método contraceptivo, logo se expondo ",
         alternativas: [
             {
                 texto: "alternativa 05",
