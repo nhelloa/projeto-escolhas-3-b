@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Sou a favor do aborto, a mulher tem o direito de escolher se quer ou não, gerar um filho.",
-                afirmacao: "você é uma mulher que apoia a liberdade de escolha e luta pelo direito sob seu proprío corpo"
+                afirmacao: "Você é uma mulher que apoia a liberdade de escolha e luta pelo direito sob seu proprío corpo,"
             },
             {
-                texto:"Sou contra, ninguém tem a liberdade de tirar a vida de alguém, logo que a vida é um direito.",
-                afirmacao: "você é uma pessoa mais conservadora que apoia o direito a vida e tem instintos familiares"
+                texto:"Sou contra, ninguém tem a liberdade de tirar a vida de alguém.",
+                afirmacao: "você é uma pessoa mais conservadora que apoia o direito a vida e tem instintos familiares,"
             }   
         ]
     },
@@ -23,29 +23,29 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Aceitaria o pedido de aborto, abuso sexual é crime, deixaria sequelas tanto na mãe quanto no bebê a deixando incapacitada de lidar com a maternidade.",
-                afirmacao: "mesmo perante uma situação tão monstruosa você tenta lidar da melhor forma possível, deixando o emocional decidir por você."
+                afirmacao: " mesmo perante uma situação tão monstruosa você tenta lidar da melhor forma possível, deixando o emocional decidir por você."
             },
             {
                 texto: "Negaria o pedido de aborto, mesmo o bebê sendo fruto de um ato criminoso ainda é uma vida. Caso a mãe opte por interromper a gestação terá de lidar com as consequências.",
-                afirmacao: "mesmo perante uma situação tão monstruosa você tenta lidar da melhor forma possível, deixando a razão decidir por você."
+                afirmacao: " mesmo perante uma situação tão monstruosa você tenta lidar da melhor forma possível, deixando a razão decidir por você."
             }
         ]
     },
     {
-        enunciado: "Agora abordamos uma situação diferente, suponhamos que: um casal optam por não usarem nenhum método contraceptivo, logo se expondo ",
+        enunciado: "Agora abordamos uma situação diferente, suponhamos que: um casal optam por não usarem nenhum método contraceptivo, logo se expondo a doenças e uma gravidez indesejada. Após tantos vacilos o casal acaba engravidando sem querer. Que atitude tomaria perante a situação?",
         alternativas: [
             {
-                texto: "alternativa 05",
-                afirmacao: "resultado 05"
+                texto: "Abortaria, o casal está em uma gravidez indesejada, se um bebê não está nos planos, não tem porquê continuar a gestação.",
+                afirmacao: "Aparentemente um bebê não está nos seus planos."
             },
             {
-                texto: "alternativa 06",
-                afirmacao: "resultado 06"
+                texto: "Não abortaria, o casal estava ciente das consequências de não se previnir. Portanto devem assumir a responsabilidade e procurar lidar com a situação.",
+                afirmacao: "Assumir responsabilidades e lidar com situações indesejadas é o seu forte."
             }
         ]
     },
     {
-        enunciado: "Enunciado 04",
+        enunciado: "Ambas as duas histórias dividem lados, sendo situações diferentes. Após observar estes dois casos, agora vamos supor que voc",
         alternativas: [
             {
                 texto: "alternativa 07",
