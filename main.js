@@ -36,37 +36,37 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Abortaria, o casal está em uma gravidez indesejada, se um bebê não está nos planos, não tem porquê continuar a gestação.",
-                afirmacao: "Aparentemente um bebê não está nos seus planos."
+                afirmacao: "Aparentemente um bebê não está nos seus planos,"
             },
             {
                 texto: "Não abortaria, o casal estava ciente das consequências de não se previnir. Portanto devem assumir a responsabilidade e procurar lidar com a situação.",
-                afirmacao: "Assumir responsabilidades e lidar com situações indesejadas é o seu forte."
+                afirmacao: "Assumir responsabilidades e lidar com situações indesejadas é o seu forte,"
             }
         ]
     },
     {
-        enunciado: "Ambas as duas histórias dividem lados, sendo situações diferentes. Após observar estes dois casos, agora vamos supor que voc",
+        enunciado: "Ambas as duas histórias dividem lados, sendo situações diferentes. Após observar estes dois casos, agora vamos supor que você seja um médico especializado em Ginecologis e Obstetria e uma de suas pacientes esta gestante e não deseja ter o bebê. De acordo com o desejo da paciente ela lhe pede para que realize o aborto do feto. Como o profissional que és negaria ou aceitaria o pedido da paciente?",
         alternativas: [
             {
-                texto: "alternativa 07",
-                afirmacao: "resultado 07"
+                texto: "Realizaria o aborto como a paciente solicitou",
+                afirmacao: "Como médico você prioriza a satisfação do seu cliente."
             },
             {
-                texto: "alternativa 08",
-                afirmacao: "resultado 08"
+                texto: "negaria o abordo solicitado pela paciente",
+                afirmacao: "Como médico você prioriza manter uma boa imagem para o público e não por em risco a sua carreira."
             }
         ]
     },
     {
-        enunciado: "Enunciado 05",
+        enunciado: "Após muitos anos de carreira bem sucedida você decide abrir uma clínica somente voltada a área de G,O. Contrata um minuncioso quadro de médicos talentosos e experientes. Sua clínica e voltada para os cuidados da maternidade, como uma clínica voltada somente a isso você liberaria a realização do aborto na sua clinica se ja fosse uma pauta legalizada?",
         alternativas: [
             {
-                texto: "alternativa 09",
-                afirmacao: "resultado 09"
+                texto: "Não, mesmo que fosse legalizada não realizaria o procedimento.",
+                afirmacao: "Sua clínica é um sucesso, os clientes se sentem bem e seguros em sabere que eles tem um médico tão qualificado a disposição."
             },
             {
-                texto: "alternativa 10",
-                afirmacao: "resultado 10"
+                texto: "Sim, a necessidade dos meus pacientes acima de tudo.",
+                afirmacao: "Sua clínica é um sucesso, os clientes se sentem bem e seguros em saber que podem contar com seus serviços."
             }
         ]
     },
